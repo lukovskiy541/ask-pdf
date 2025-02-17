@@ -1,1 +1,1 @@
-# smart-study-assistant
+# simple ask-pdf system
